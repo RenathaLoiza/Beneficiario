@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\bin\Debug\net8.0\Beneficiario.Service.deps.json
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\bin\Debug\net8.0\Beneficiario.Service.dll
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\bin\Debug\net8.0\Beneficiario.Service.pdb
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\bin\Debug\net8.0\Beneficiario.Domain.dll
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\bin\Debug\net8.0\Beneficiario.Domain.pdb
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\obj\Debug\net8.0\Beneficiario.Service.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\obj\Debug\net8.0\Beneficiario.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\obj\Debug\net8.0\Beneficiario.Service.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\obj\Debug\net8.0\Beneficiario.Service.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\obj\Debug\net8.0\Beneficiario.Service.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\obj\Debug\net8.0\Beneficiario.Service.csproj.CopyComplete
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\obj\Debug\net8.0\Beneficiario.Service.dll
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\obj\Debug\net8.0\refint\Beneficiario.Service.dll
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\obj\Debug\net8.0\Beneficiario.Service.pdb
+C:\Users\DELL\source\repos\Beneficiario.API\Beneficiario.Service\obj\Debug\net8.0\ref\Beneficiario.Service.dll
